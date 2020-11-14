@@ -1,5 +1,67 @@
 # James-Kelmenson-Portfolio
-Portfolio of projects with links
+
+# **Projects**
+
+## **Automation Tools**
+* [Computer Recording and Activity Playback](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
+* [COD Warzone Circle Detector](https://github.com/kelmensonj/OCR-Pyautogui-Detect-Storm-Movement-COD-Warzone-TTS)
+* [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
+
+## **Web Scraping**
+* [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
+* [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
+* [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
+
+## **Video Editing**
+* [My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
+
+## **Physics Simulation**
+* [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
+
+## **CAD**
+* [Terrace House Render](https://www.youtube.com/watch?v=5Hg9Z5nokfI)
+* [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
+* [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
+
+# **Skills**
+
+## **Software**
+* Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, storytelling, comedy, architectural rendering
+
+* Python: data science, pandas, web scraping, beautiful soup, selenium, pyautogui, multiprocessing, gui, blender scripting, numpy, Ebay API
+
+* Databases: almost all my coding projects incorporate an auto saving database with automatic updating and can handle any missing data
+
+* GUI: I'm not extremely proficient with GUI's. I typically use tkinter but I can also use kivy
+
+* Filing: Most of my coding projects automatically save files and create backups, typically by reading and writing to csv files. Several of my projects parse the current directory and select relevant files to be displayed for selection in the GUI. 
+
+* Automation: I have experience with automatic data aggregation, web scraping, animation rendering, 3D modelling, task queing, data collection, generalized task automation, and more
+
+## **Invention**
+* Software: I can rapidly prototype almost any piece of software I think of. I utilize open source software and access API's when applicable, I am completely self taught, and I learn what is neccessary to complete working prototypes of the ideas I have. 
+* 3D Modeling: I am highly proficient in the open source CAD software Blender3D. I create highly detailed, textured, and animated models. I often utilize Python scripting in order to create complex 3D animations and models.
+
+## **Writing**
+* Comedy, storytelling, dialogue, poetry, persuasive essays
+
+# **Experience**
+
+## **McDonalds Restaurant Worker**
+* Entry level, taking orders, serving fries, serving customers
+* Drive through, front counter
+* Cleaning
+* Fries
+
+## **Pizza Place and Trattoria II (Still Restaurant Worker)**
+* Running cash register
+* Restocking front counter and back room, tables, drinks, and pizza boxes
+* Receiving customer orders over phone and in the restaurant
+* Dining service and bussing
+* Occasionally preparing food
+* Occasionally picking up supplies and food from suppliers
+* Dishes, cleaning
+* Everything besides making the delicious food and coordinating/managing/building/running a thriving local restaurant with thousands of happy customers
 
 # [Project 1: Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 * Coded in python, animated in blender
@@ -34,6 +96,8 @@ Portfolio of projects with links
 
 # [Project 6: Automating Automation]
 * The project I'm most proud of, coming soon.
+
+![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
 
 
 
