@@ -1,4 +1,4 @@
-# [James-Kelmenson-Portfolio Page](https://kelmensonj.github.io/James-Kelmenson-Portfolio/)
+# [My URL](https://kelmensonj.github.io/James-Kelmenson-Portfolio/)
 
 # **Projects**
 
