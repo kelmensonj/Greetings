@@ -97,6 +97,8 @@
 # [Project 6: Automating Automation]
 * The project I'm most proud of, coming soon.
 
+
+![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/quickTestCompRecord.gif)
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
 
 
