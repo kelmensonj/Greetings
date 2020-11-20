@@ -28,6 +28,8 @@
 ## **Software**
 * Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, storytelling, comedy, architectural rendering
 
+![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/terraceGif1.gif)
+
 * Python: data science, pandas, web scraping, beautiful soup, selenium, pyautogui, multiprocessing, gui, blender scripting, numpy, Ebay API
 
 * Databases: almost all my coding projects incorporate an auto saving database with automatic updating and can handle any missing data
