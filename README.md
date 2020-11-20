@@ -100,6 +100,7 @@
 
 
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecord.gif)
+![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecordGif5.gif)
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
 
 
