@@ -81,7 +81,7 @@
 * Various shorts - animations usually around a minute in length that I made using Python scripting and Blender 3D
 * Data and audio visualization videos
 
-# [Project 6: Automating Automation]
+# [Project 6: Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 * The project I'm most proud of, coming soon.
 * I'll be adding more, but in the gif below, you'll see me the cursor moving around and clicking the mouse and pressing keys. This all happens without me pressing anything other than that 'Replay' button at the beginning. The sequence of key presses and mouse movements was recorded and replayed using this project
 
