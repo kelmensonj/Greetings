@@ -44,26 +44,11 @@
 * Software: I can rapidly prototype almost any piece of software I think of. I utilize open source software and access API's when applicable, I am completely self taught, and I learn what is neccessary to complete working prototypes of the ideas I have. 
 * 3D Modeling: I am highly proficient in the open source CAD software Blender3D. I create highly detailed, textured, and animated models. I often utilize Python scripting in order to create complex 3D animations and models.
 
-## **Writing**
-* Comedy, storytelling, dialogue, poetry, persuasive essays
-
 # **Experience**
 
-## **McDonalds Restaurant Worker**
-* Entry level, taking orders, serving fries, serving customers
-* Drive through, front counter
-* Cleaning
-* Fries
-
-## **Pizza Place and Trattoria II (Still Restaurant Worker)**
-* Running cash register
-* Restocking front counter and back room, tables, drinks, and pizza boxes
-* Receiving customer orders over phone and in the restaurant
-* Dining service and bussing
-* Occasionally preparing food
-* Occasionally picking up supplies and food from suppliers
-* Dishes, cleaning
-* Everything besides making the delicious food and coordinating/managing/building/running a thriving local restaurant with thousands of happy customers
+## **Food Service**
+* 8 years experience
+* Chain and local, everything from front to back of house
 
 # [Project 1: Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 * Coded in python, animated in blender
@@ -104,6 +89,10 @@
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecord.gif)
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecordGif5.gif)
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
+
+# [Project 7: Pseudoroot](https://www.youtube.com/watch?v=eCXxZpWh2Ig&t=73s)
+* A novel approach to agriculture
+
 
 
 
