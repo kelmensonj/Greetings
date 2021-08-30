@@ -90,7 +90,7 @@
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecordGif5.gif)
 ![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
 
-# [Project 7: Pseudoroot](https://www.youtube.com/watch?v=eCXxZpWh2Ig&t=73s)
+# [Project 7: Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
 * A novel approach to agriculture
 
 
