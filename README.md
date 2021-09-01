@@ -1,3 +1,5 @@
+Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine, but also check out 'Pseudoroot'.
+
 # [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
 # [Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
@@ -10,8 +12,6 @@
 
 # [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
-# [Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
-
 ## **Software**
 * Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, architectural rendering
 
@@ -21,10 +21,11 @@
 
 * 8 years experience in food service
 * Chain and local, everything from front to back of house
+* Hydroponics
 
-## **Projects** ##
+## **Skills** ##
 
-Automation Tools
+Automation Tools:
 * [Computer Recording and Activity Playback](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 * [COD Warzone Circle Detector](https://github.com/kelmensonj/OCR-Pyautogui-Detect-Storm-Movement-COD-Warzone-TTS)
 * [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
@@ -44,6 +45,7 @@ CAD:
 * [Terrace House Render](https://www.youtube.com/watch?v=5Hg9Z5nokfI)
 * [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
 * [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
+* [Pseudoroot](https://www.youtube.com/watch?v=eCXxZpWh2Ig)
 
 ## About Me
 
