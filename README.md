@@ -2,13 +2,13 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 
 # [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
-# [Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
+# [Data Driven Grow Media for Hydroponics](https://github.com/kelmensonj/Pseudoroot)
 
-# [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
+# [Early Universe Physics Simulation to Kickstart the Singularity](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 
 # [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 
-# [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
+# [MLB Statistics, and a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
 
 # [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
@@ -22,6 +22,9 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 * 8 years experience in food service
 * Chain and local, everything from front to back of house
 * Hydroponics
+
+## **Interests** 
+* Technology, biotechnology, nanotechnology, archaeology, megastructures, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, and media, NLP, artificial intelligence, architecture, alternative governments, currencies, and social contracts, space, hydroponics, manufacturing, supply chain logistics, resource production, basketball, psychology
 
 ## **Skills** ##
 
