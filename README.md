@@ -36,7 +36,7 @@ Automation Tools:
 Web Scraping:
 * [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
 * [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
-* [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
+* [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
 Video Editing:
 * [My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
