@@ -24,23 +24,23 @@
 
 ## **Projects** ##
 
-# **Automation Tools**
+# *Automation Tools*
 * [Computer Recording and Activity Playback](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 * [COD Warzone Circle Detector](https://github.com/kelmensonj/OCR-Pyautogui-Detect-Storm-Movement-COD-Warzone-TTS)
 * [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
 
-# **Web Scraping**
+# *Web Scraping*
 * [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
 * [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 * [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
 
-# **Video Editing**
+# *Video Editing*
 * [My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
 
-# **Physics Simulation**
+# *Physics Simulation*
 * [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 
-# **CAD**
+# *CAD*
 * [Terrace House Render](https://www.youtube.com/watch?v=5Hg9Z5nokfI)
 * [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
 * [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
