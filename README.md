@@ -1,4 +1,4 @@
-Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine, but also check out 'Pseudoroot'.
+Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine, but also check out 'Data Driven Grow Media for Hydroponics'.
 
 # [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
