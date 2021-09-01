@@ -39,15 +39,11 @@
 
 # [Project 4: The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
 
-# [Project 5: My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
-* Various product pitches and ideas
-* Various shorts - animations usually around a minute in length that I made using Python scripting and Blender 3D
-* Data and audio visualization videos
-
 # [Project 6: Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
 # [Project 7: Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
-* A novel approach to agriculture
+
+
 
 
 
