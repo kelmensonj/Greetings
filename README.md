@@ -13,7 +13,7 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 # [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
 ## **Software**
-* Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, architectural rendering
+* Blender3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, architectural rendering, rigging, Mixamo, BlenderGIS, particle systems, scripting
 
 * Python: data science, pandas, databases, web scraping, beautiful soup, selenium, pyautogui/pynput, multiprocessing, gui, blender scripting, Ebay API, pybaseball API, pytesseract,openCV
 
