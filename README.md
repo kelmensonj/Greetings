@@ -1,5 +1,3 @@
-# [My URL](https://kelmensonj.github.io/James-Kelmenson-Portfolio/)
-
 # **Projects**
 
 ## **Automation Tools**
@@ -23,37 +21,17 @@
 * [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
 * [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
 
-# **Skills**
-
 ## **Software**
-* Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, storytelling, comedy, architectural rendering
+* Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, architectural rendering
 
-![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/terraceGif1.gif)
+* Python: data science, pandas, databases, web scraping, beautiful soup, selenium, pyautogui/pynput, multiprocessing, gui, blender scripting, Ebay API, pybaseball API, pytesseract,openCV
 
-* Python: data science, pandas, web scraping, beautiful soup, selenium, pyautogui, multiprocessing, gui, blender scripting, numpy, Ebay API
+## **Experience**
 
-* Databases: almost all my coding projects incorporate an auto saving database with automatic updating and can handle any missing data
-
-* GUI: I'm not extremely proficient with GUI's. I typically use tkinter but I can also use kivy
-
-* Filing: Most of my coding projects automatically save files and create backups, typically by reading and writing to csv files. Several of my projects parse the current directory and select relevant files to be displayed for selection in the GUI. 
-
-* Automation: I have experience with automatic data aggregation, web scraping, animation rendering, 3D modelling, task queing, data collection, generalized task automation, and more
-
-## **Invention**
-* Software: I can rapidly prototype almost any piece of software I think of. I utilize open source software and access API's when applicable, I am completely self taught, and I learn what is neccessary to complete working prototypes of the ideas I have. 
-* 3D Modeling: I am highly proficient in the open source CAD software Blender3D. I create highly detailed, textured, and animated models. I often utilize Python scripting in order to create complex 3D animations and models.
-
-# **Experience**
-
-## **Food Service**
-* 8 years experience
+* 8 years experience in food service
 * Chain and local, everything from front to back of house
 
 # [Project 1: Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
-* Coded in python, animated in blender
-* Accurately simulates gravity acting on a variable number of neutrons
-* Scripted and animated as a 3D rendering in Blender
 
 # [Project 2: Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 * Integrates Ebay Shopping and Finding API's with Beautiful Soup and the Requests library in order to get supplemental data
