@@ -45,13 +45,6 @@
 * Data and audio visualization videos
 
 # [Project 6: Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
-* The project I'm most proud of, coming soon.
-* I'll be adding more, but in the gif below, you'll see me the cursor moving around and clicking the mouse and pressing keys. This all happens without me pressing anything other than that 'Replay' button at the beginning. The sequence of key presses and mouse movements was recorded and replayed using this project
-
-
-![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecord.gif)
-![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/compRecordGif5.gif)
-![alt-text](https://github.com/kelmensonj/James-Kelmenson-Portfolio/blob/main/spaceShipLanding.gif)
 
 # [Project 7: Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
 * A novel approach to agriculture
