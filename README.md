@@ -42,9 +42,6 @@
 * Built a database of well over 40,000 unique UPC codes each with data on at least 3 different listings. Successfully identified multiple underpriced Ebay listings using this information - the listings were bought and flipped for profit. 
 
 # [Project 3: MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
-* Using pybaseball, pandas, and python, web scraped all publicly available statcast data for variable years and months and assembled all the data in a database
-* Added additional data, player names, to the database which only featured unique player id's
-* Cleaned and reshaped the data in order to produce park factors and indications of raw power that correlate year to year better than conventional methods 
 
 # [Project 4: The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
 * Utilized Python, Beautiful Soup, Requests, Pandas, Selenium, and Multiprocessing in order to quickly and efficiently web scrape data on millions of players in the popular online Battle Royale COD Warzone
