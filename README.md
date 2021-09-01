@@ -1,39 +1,16 @@
-# **Projects**
+# [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
-## **Automation Tools**
-* [Computer Recording and Activity Playback](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
-* [COD Warzone Circle Detector](https://github.com/kelmensonj/OCR-Pyautogui-Detect-Storm-Movement-COD-Warzone-TTS)
-* [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
+# [Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
 
-## **Web Scraping**
-* [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
-* [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
-* [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
+# [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 
-## **Video Editing**
-* [My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
+# [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 
-## **Physics Simulation**
-* [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
+# [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
 
-## **CAD**
-* [Terrace House Render](https://www.youtube.com/watch?v=5Hg9Z5nokfI)
-* [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
-* [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
+# [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
-# [Project 1: Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
-
-# [Project 2: Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
-
-# [Project 1: Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
-
-# [Project 2: Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
-
-# [Project 3: MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
-
-# [Project 4: The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
-
-# [Project 7: Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
+# [Pseudoroot](https://github.com/kelmensonj/Pseudoroot)
 
 ## **Software**
 * Blender 3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, lighting, architectural rendering
@@ -44,6 +21,29 @@
 
 * 8 years experience in food service
 * Chain and local, everything from front to back of house
+
+## **Projects** ##
+
+# **Automation Tools**
+* [Computer Recording and Activity Playback](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
+* [COD Warzone Circle Detector](https://github.com/kelmensonj/OCR-Pyautogui-Detect-Storm-Movement-COD-Warzone-TTS)
+* [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
+
+# **Web Scraping**
+* [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
+* [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
+* [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas)
+
+# **Video Editing**
+* [My Youtube Channel](https://www.youtube.com/channel/UC01Ew2iYxMxFOytlZQqhOEg)
+
+# **Physics Simulation**
+* [Early Universe Physics Simulation](https://github.com/kelmensonj/Newtownian-Physics-Engine)
+
+# **CAD**
+* [Terrace House Render](https://www.youtube.com/watch?v=5Hg9Z5nokfI)
+* [Office Campus Render](https://www.youtube.com/watch?v=prYgmhuJHvs)
+* [Better Infrastructure at a Fraction the Cost, Water, Power, and Air Only When You Need It](https://www.youtube.com/watch?v=1rEbn-nI0RM)
 
 ## About Me
 
