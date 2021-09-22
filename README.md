@@ -8,7 +8,7 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 
 # [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 
-# [MLB Statistics, and a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
+# [MLB Statistics, and a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics)
 
 # [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
@@ -25,7 +25,7 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 * Soldering and small scale fabrication
 
 ## **Interests** 
-* Technology, biotechnology, nanotechnology, archaeology, megastructures, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, and media, NLP, artificial intelligence, architecture, alternative governments, currencies, and social contracts, space, hydroponics, manufacturing, supply chain logistics, resource production, basketball, psychology
+* Technology, biotechnology, nanotechnology, archaeology, megastructures, metaphysics, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, and media, NLP, artificial intelligence, architecture, alternative governments, currencies, and social contracts, space, hydroponics, manufacturing, supply chain logistics, resource production, basketball, psychology
 
 ## **Skills** ##
 
@@ -35,7 +35,7 @@ Automation Tools:
 * [Blender Render Que](https://github.com/kelmensonj/Blender-Render-Que)
 
 Web Scraping:
-* [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics/blob/master/pybaseballPandasPython)
+* [MLB Statistics, a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics)
 * [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 * [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
