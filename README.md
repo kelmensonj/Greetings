@@ -1,4 +1,4 @@
-Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine, but also check out 'Data Driven Grow Media for Hydroponics'.
+Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine.
 
 # [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
@@ -20,12 +20,13 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 ## **Experience**
 
 * 8 years experience in food service
-* Chain and local, everything from front to back of house
 * Hydroponics
 * Soldering and small scale fabrication
+* Freelance design, prototyping, 3D modelling
+* Freelance webscraping
 
 ## **Interests** 
-* Technology, biotechnology, nanotechnology, archaeology, megastructures, metaphysics, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, and media, NLP, artificial intelligence, architecture, alternative governments, currencies, and social contracts, space, hydroponics, manufacturing, supply chain logistics, resource production, basketball, psychology
+* Technology, biotechnology, nanotechnology, archaeology, megastructures, metaphysics, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, NLP, artificial intelligence, architecture, alternative governments, currencies, social contracts, space, hydroponics, agroculture, landscaping, manufacturing, supply chain logistics, resource production, basketball, psychology
 
 ## **Skills** ##
 
@@ -53,12 +54,10 @@ CAD:
 
 ## About Me
 
-I like to say I have a messiah complex. Since going bald at 18 years old and subsequently deep diving into the Technological Singularity, I've always sort of thought I could have a chance to transcend... or at least, that this era in history could matter.  
+I like to say I have a messiah complex (it's a corner of my mind I nurture). I deep dove into the Technological Singularity in 2015, and since then, I've always sort of thought I have a chance to transcend... or at least, that this era in history could matter. But I hate myself as much as the next guy and I try to stay grounded.
 
-I have extreme ideas. I won't pursue a project or idea just because it's different, but sometimes it feels that way. I work hard on my own ideas, but I work a lot harder for bosses I respect and ideas I believe in. There's nothing I'm more hungry for than to contribute. It's why I love to play pickup basketball and cook a big meal. It's also why with my web scraping projects for sabermetrics, Ebay, and Skill Based Matchmaking, I'm able to churn out hundreds of lines of code and dozens of animations. These aren't projects I came up with all alone.
+I have ideas. I won't pursue a project or idea just because it's different, but sometimes it feels that way. I try to stay focused specifically on things that will increase the volume of human experience. For example, automated emergency inventions, food security, and emergence through universe simulation all relate to saving lives, extending lives, and improving humanity's scope. I don't know if life has any sort of meaning, but I think it's definitely too soon to tell and that's why it's important for us all to live and experience life to the fullest. 
 
-I enjoy working in the food industry for a few reasons - but the main reason I have a smile when I'm on the job is because I always seem to have incredible bosses and coworkers. In my life I truly believe I've had zero bad bosses and probably 3 or 4 really great ones. I've been lucky to be a part of great teams - and that extends to my family and the friends I've lucked into. I grew up in Brewster, NY, a scenic suburb of New York City, and without my relatively utopian life experiences to date I would not be who I am today. I want to bring home gold.
+My first ideas were interstellar starships, stock market algorithms, and a new constitution - all things I still think on. Over time I started thinking smaller - an app that could measure a weight by using the camera (at the time, similar apps only used gyroscopes and accelerometers), a new kind of basketball shoe with a removable bottom, or essays about Truvada and the changing psychology of individuals. As I've become more comfortable with developing ideas - nothing helped more than switching from Windows to Linux - I've refined my abilities to think both big and small, and to account for literally all factors. I still have a backlog of 8000+ ideas I want to make happen ('organized' in gmail), but I really appreciate that open source software like Blender3D and Python have allowed me to make a dent in what used to be a stagnant list. 
 
-Still, I dont think I'll ever stop with these whacky solo projects. My first ideas were interstellar starships, stock market algorithms, and a new constitution - all things I still think on. Over time I started thinking smaller - an app that could measure a weight by using the camera (at the time, similar apps only used gyroscopes and accelerometers), a new kind of basketball shoe with a removable bottom, a gourmet onion sphere, or when I wrote an essay in college all about the pill Truvada. As I've become more comfortable with a computer - nothing helped more than switching from Windows to linux - I've refined my abilities to think both big and small. I want to work in a way that would jive with a technological singularity tomorrow, next month, in 15 years, or beyond my lifetime. 
-
-I've done almost nothing so far. Im 24 years old and, embarassingly, I've lived an incredibly unethical life of smoking weed and playing video games where my most impactful service to the world has been delivering pizzas. But I can code now. I can animate now. And I'm making my ideas happen. Long term, [this](https://www.youtube.com/watch?v=Kr8X6mzJpxw) is what I want to do. Short term, [this](https://www.youtube.com/watch?v=eCXxZpWh2Ig&t=1s) is how I think I can get there.
+My mission is to create a Garden of Eden on Earth, complete with immortality, aesthetic environments, and maximum freedom for all living things. The Earth I envision coexists with those who choose to transcend. Transcendance is terrifying but I believe it won't last without company. I believe humanity preserved will be an essential component in a positive Technological Singularity. Not a moment goes by that I don't desperately try to justify those beliefs.
