@@ -1,16 +1,16 @@
 Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine.
 
-## [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
+### [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
-## [Data Driven Grow Media for Hydroponics](https://github.com/kelmensonj/Pseudoroot)
+### [Data Driven Grow Media for Hydroponics](https://github.com/kelmensonj/Pseudoroot)
 
-## [Early Universe Physics Simulation to Kickstart the Singularity](https://github.com/kelmensonj/Newtownian-Physics-Engine)
+### [Early Universe Physics Simulation to Kickstart the Singularity](https://github.com/kelmensonj/Newtownian-Physics-Engine)
 
-## [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
+### [Market Research on Ebay Products](https://github.com/kelmensonj/UPC-s-and-the-Ebay-API-for-a-Million-Dollar-Heist)
 
-## [MLB Statistics, and a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics)
+### [MLB Statistics, and a Better Stat than Exit Velocity](https://github.com/kelmensonj/Pybaseball-Pandas-and-Python-for-DIY-Sabermetrics)
 
-## [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
+### [The Largest Publicly Available Study on SBMM in Videogames to Date](https://github.com/kelmensonj/Warzone-SBMM-APP-Much-Improved)
 
 ## **Software**
 * Blender3D: animation, modelling, physics simulation (forcefield, wind, fluid, smoke, fire, rigid and soft body, collision, cloth), video editing, architectural rendering, rigging, Mixamo, BlenderGIS, particle systems, scripting
