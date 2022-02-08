@@ -1,4 +1,5 @@
 Below are a few projects I'd like to showcase. I suggest 'Automating Automation' for a solid demo that should run on any machine.
+------
 
 ### [Automating Automation](https://github.com/kelmensonj/Computer-Recording-and-Activity-Playback)
 
