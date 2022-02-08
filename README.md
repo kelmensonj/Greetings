@@ -22,8 +22,8 @@ Below are a few projects I'd like to showcase. I suggest 'Automating Automation'
 * 8 years experience in food service
 * Hydroponics
 * Soldering and small scale fabrication
-* Freelance design, prototyping, 3D modelling
-* Freelance webscraping
+* Freelance design, prototyping, 3D modelling, and animation
+* Freelance webscraping and data science
 
 ## **Interests** 
 * Technology, biotechnology, nanotechnology, archaeology, megastructures, metaphysics, engineering, animation, programming, automation, robotics, physics simulation, procedurally generated animation, design, NLP, artificial intelligence, architecture, alternative governments, currencies, social contracts, space, hydroponics, agroculture, landscaping, manufacturing, supply chain logistics, resource production, basketball, psychology
